@@ -22,11 +22,10 @@ https://www.kosenjudoonline.com/
 ### Gatame Diagnosis
 
 Gatame Kosen Onlineのユーザー向け診断アプリケーションです。
-※現在は使用していない。
 
 → [Repository](https://github.com/nishimurahiroki/gatame-diagnosis)
 
-### Judo Timer（デモ）
+### Judo Timer（プロトタイプ）
 
 柔道の練習・試合での利用を想定して開発したタイマーアプリケーションです。
 
